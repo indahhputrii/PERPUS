@@ -1,3 +1,3 @@
-# PERPUS
+# PERPUSTAKAAN_LARAVEL
 Login admin -> username : admin123 - password : admin123 
-Login user - username : user123 - password : user123
+Login user -> username : user123 - password : user123
